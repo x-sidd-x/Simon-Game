@@ -1,0 +1,8 @@
+This is a simple sequence game in which you have to press the same sequence of keys from the starting level and whenever you press a wrong key the game is over
+
+Example
+Level 1 : Game presses RED button, you also press RED button 
+Level 2 : Game presses BLUE button, now you have to press RED and then BLUE button
+Level 3 : Game presses YELLOW button, now you have to press RED then BLUE then YELLOW ( if you press any other button which forms any other sequence, you loose)
+
+YOU HAVE TO REMEMBER THE EXACT SEQUENCE OF BUTTONS FROM THE LEVEL 1 IN ORDER TO CONTINUE PLAYING THE GAME
